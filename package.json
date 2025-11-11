@@ -1,0 +1,14 @@
+{
+  "name": "tasker-utils",
+  "version": "1.0.0",
+  "description": "Common utilities for tasker ecosystem - timestamps, errors, etc.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./timestamps": "./src/timestamps.js",
+    "./errors": "./src/errors.js"
+  },
+  "keywords": ["tasker", "utils", "timestamps", "errors"],
+  "license": "MIT"
+}
