@@ -1,7 +1,7 @@
 {
-  "name": "tasker-utils",
+  "name": "sequential-utils",
   "version": "1.0.0",
-  "description": "Common utilities for tasker ecosystem - timestamps, errors, etc.",
+  "description": "Common utilities for sequential ecosystem - timestamps, errors, etc.",
   "type": "module",
   "main": "src/index.js",
   "exports": {
@@ -9,6 +9,6 @@
     "./timestamps": "./src/timestamps.js",
     "./errors": "./src/errors.js"
   },
-  "keywords": ["tasker", "utils", "timestamps", "errors"],
+  "keywords": ["sequential", "utils", "timestamps", "errors"],
   "license": "MIT"
 }
